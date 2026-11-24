@@ -1,6 +1,6 @@
 # Hi, I'm Filip Halas
 
-Computer Science student at IMC KREMS, my primary focus is on AI/ML and infrastructure automation, frontend/backend development, databases. Currently building my own chess AI from scratch.
+Computer Science student at IMC Krems, my primary focus is on AI/ML and infrastructure automation, frontend/backend development, databases. Currently building my own chess AI from scratch.
 
 [LinkedIn](https://www.linkedin.com/in/filip-hal%C3%A1s-1647aa384/)
 
@@ -11,11 +11,11 @@ Computer Science student at IMC KREMS, my primary focus is on AI/ML and infrastr
 - **Backend & Web:** Django, REST APIs, SQLite, MySQL, PostgreSQL
 - **AI/ML:** PyTorch, NumPy, transformer models *(learning)*
 - **DevOps & Infrastructure:** Docker, Ansible, Nginx, Linux
-- **Tools:** Git, GitHub, Pytest, PyCharm, Cisco Packet Tracer, Wireshark, Hydra
+- **Tools:** Git, GitHub, Pytest, PyCharm, Cisco Packet Tracer, Wireshark, Hydra (basics)
 
 ## Featured Projects
 
-### [SovoChess](https://github.com/filipphalas/SovoChessApp) — Chess Platform in Django *(In Progress)*
+### [SovoChess](https://github.com/filipphalas/SovoChessApp) — Chess Platform in Django 
 
 A chess web app with my own AI model in development, growing into a tool for chess clubs.
 
@@ -25,7 +25,7 @@ A chess web app with my own AI model in development, growing into a tool for che
 - **Testing:** Unit tests with Pytest.
 - **Next:** Game database for clubs, league opponent preparation and Docker deployment.
 
-### SovoLM — Chess Move Prediction Model *(In Progress)*
+### SovoLLM — Chess Move Prediction Model *(In Progress)*
 
 A transformer model in PyTorch that learns to play chess from human games.
 

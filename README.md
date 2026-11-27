@@ -15,6 +15,18 @@ Computer Science student at IMC Krems, my primary focus is on AI/ML and infrastr
 
 ## Featured Projects
 
+### [Terp](https://github.com/filipphalas/Interpreter) — Interpreter in Python *(Finishing by end of November 2026)*
+
+A small interpreter written from scratch in Python to learn how languages work.
+
+- **Tokenizer:** Splits source text into number and symbol tokens (`+ - * / =`) and skips whitespace.
+- **Parser:** Recursive descent parser based on a context-free grammar. It builds a syntax tree from the tokens.
+- **Operators:** Addition, subtraction, multiplication and division with correct precedence (`*` and `/` before `+` and `-`) and left-to-right grouping.
+- **Expressions:** Unary minus (`-5`) and parentheses (`(1 + 2) * 3`) for nested expressions.
+- **Errors:** Clear syntax errors for leftover tokens, missing brackets and unexpected end of input.
+- **Next:** Evaluator that walks the tree, then variables and assignment.
+- **Concepts:** Context-free grammars, recursive descent, abstract syntax trees.
+
 ### [SovoChess](https://github.com/filipphalas/SovoChessApp) — Chess Platform in Django 
 
 A chess web app with my own AI model in development, growing into a tool for chess clubs.

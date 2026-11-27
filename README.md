@@ -15,7 +15,7 @@ Computer Science student at IMC Krems, my primary focus is on AI/ML and infrastr
 
 ## Featured Projects
 
-### [Terp](https://github.com/filipphalas/Interpreter) — Interpreter in Python *(Finishing by end of November 2026)*
+### [Terp](https://github.com/filipphalas/Interpreter) — Interpreter in Python *
 
 A small interpreter written from scratch in Python to learn how languages work.
 
